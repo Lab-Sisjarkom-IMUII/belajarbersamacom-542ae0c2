@@ -1,0 +1,11 @@
+{
+  "name": "belajarcom",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "belajarbersamacom",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_0722d7b2a7d21d318a57f4d56c2e4b5ddec6861c507c51dac550c3a52a03fb71",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/belajarbersamacom-542ae0c2.git"
+}
